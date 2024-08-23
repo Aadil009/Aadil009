@@ -6,7 +6,7 @@ Currently working as Software Engineer at Metadesign Software Services
 
 JS is what I can say I’m well known for... 🥷
 
-Build few apps using React Native Framework for fun.
+Developed few apps using React Native Framework for fun.
 
 In my day job I'm mostly working on React, React Native, and NodeJS
 
