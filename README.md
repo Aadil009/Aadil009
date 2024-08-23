@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi There, I'm Batman 🦇
 
-<!--
-**Aadil009/Aadil009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learner 🤓 | Programmer 🧑‍💻 | Tech Enthusiast 💻 | Cricket Pundit 🏏
 
-Here are some ideas to get you started:
+Currently working as Software Engineer at Metadesign Software Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JS is what I can say I’m well known for... 🥷
+
+Build few apps using React Native Framework for fun.
+
+In my day job I'm mostly working on React, React Native, and NodeJS
+
+Interested in building something useful for farmers of my country, India 🇮🇳
+
+- **Contact** : aadil_sayyed@outlook.com | +91 85518 90913
